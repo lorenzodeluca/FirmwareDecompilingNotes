@@ -1,6 +1,6 @@
 # FirmwareDecompilingNotes
 
-First case study: squash file system
+First case study: squash file system.
 The ones who knows me knows that sometime as a hobby i like to "study cybersecurity on real life cases"... 😜
 
 i got a device with a firmware that didnt allow me to do what i needed, so this is my starting point: .bin containing the firmware (firmware_v1.0.bin)
